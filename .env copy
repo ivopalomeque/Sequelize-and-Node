@@ -1,0 +1,4 @@
+DATABASE= <dbName>
+DBUSER= <youruser>
+PASSWORD= <yourpasword>
+HOST= localhost
